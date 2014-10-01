@@ -3587,6 +3587,50 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/img\/angle-shadow.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3245,
+		"inputAbbreviatedPath": "\/img\/angle-shadow.png",
+		"outputAbbreviatedPath": "\/img\/angle-shadow.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/angle-shadow@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4992,
+		"inputAbbreviatedPath": "\/img\/angle-shadow@2x.png",
+		"outputAbbreviatedPath": "\/img\/angle-shadow@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/mphc-logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/img\/mphc-logo.png",
+		"outputAbbreviatedPath": "\/img\/mphc-logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/mphc-logo@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/img\/mphc-logo@2x.png",
+		"outputAbbreviatedPath": "\/img\/mphc-logo@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -3645,7 +3689,7 @@
 		"inputAbbreviatedPath": "\/scss\/app.scss",
 		"outputAbbreviatedPath": "\/css\/app.css",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
+		"outputPathIsSetByUser": 1,
 		"outputStyle": 0,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
